@@ -5,7 +5,7 @@
 Design-pattern-BRIDGE.
 </h1>
 
-![Bridge](https://user-images.githubusercontent.com/43074465/129262916-1fa447d8-bd2e-4a74-b858-f002c7c50323.jpg)
+![Bridge](https://user-images.githubusercontent.com/43074465/129263363-11f0f84a-dfe6-4fb7-92bb-63959f08d9ad.jpg)
 
 # Getting Started
 ```bash
